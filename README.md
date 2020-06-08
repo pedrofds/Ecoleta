@@ -109,13 +109,6 @@ $ npm install create-react-app -g
 # Expo (React Native):
 $ npm install -g expo-cli 
 ```
-
-Você precisa renomear o arquivo `.env-example` para `.env` e inserir as informações que condizem com o seu **host**:
-
-```sh
-$ mv .env-example .env
-```
-
 Instale as dependências contidas nos arquivos `package.json` que se encontram na raíz do repositório (para o gerenciamento de commits), no diretório do **server**, no diretório do **web** e no diretório **mobile**. Para instalar as dependências, basta abrir o terminal no diretório e digitar o comando:
 
 ```sh
