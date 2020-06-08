@@ -71,7 +71,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   - **[Axios][axios]**
   - **[Expo Location][expo_location]**
   - **[Expo Mail Composer][expo_mail_composer]**
-  - **[React Native Picker Select][react_native_picker_select]**
+  - RNPickerSelect
 
   \* Veja o arquivo <kbd>[package.json](mobile/package.json)</kbd>
 
