@@ -230,7 +230,6 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 - [Express](https://expressjs.com/pt-br/)
 - [Node](https://nodejs.org/en/)
 - [Celebrate](https://github.com/arb/celebrate)
-- [Joi](https://hapi.dev/module/joi/)
 
 <h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/pedro-parra-a7583b51/">Pedro Parra</a></h2>
 
