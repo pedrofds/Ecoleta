@@ -56,10 +56,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   - **[KnexJS][knex]**
   - **[SQLite][sqlite3]**
   - **[ts-node][tsnode]**
-  - **[dotENV][dotenv]**
-  - **[Multer][multer]**
   - **[Celebrate][celebrate]**
-  - **[Joi][joi]**
 
   \* Veja o arquivo <kbd>[package.json](server/package.json)</kbd>
 
@@ -74,6 +71,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   - **[Axios][axios]**
   - **[Expo Location][expo_location]**
   - **[Expo Mail Composer][expo_mail_composer]**
+  - **[React Native Picker Select][react_native_picker_select]**
 
   \* Veja o arquivo <kbd>[package.json](mobile/package.json)</kbd>
 
@@ -83,8 +81,6 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 - API: **[IBGE API][ibge_api]** &rarr; **<kbd>[API de UFs][ibge_api_ufs]</kbd>**, **<kbd>[API de Municípios][ibge_api_municipios]</kbd>** 
 - Maps: **[Leaflet][leaflet]**
 - Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
-- Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
-- Commit Conventional: **[Commitlint][commitlint]**
 - Teste de API: **[Insomnia][insomnia]**
 - Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
 - Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
