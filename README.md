@@ -236,7 +236,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 - [Celebrate](https://github.com/arb/celebrate)
 - [Joi](https://hapi.dev/module/joi/)
 
-<h2 align="center">Feito com ❤️ por <a href="hhttps://www.linkedin.com/in/pedro-parra-a7583b51/">Pedro Parra</a></h2>
+<h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/pedro-parra-a7583b51/">Pedro Parra</a></h2>
 
 <!-- web Links -->
 
